@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey there! 👋
 
+My name is Karol and I'm currently working as a Linux Administrator. Additionally I'm increasing my knowledge in DevOps field because I'm looking for new challenges which gives me opportunity to develop hard as well as soft skills :) 
 <!--
 **kadasz/kadasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
