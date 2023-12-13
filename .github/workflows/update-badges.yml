@@ -12,6 +12,6 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.CREDLYSECRET }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CREDLY_USER: karol-szczepek
   
