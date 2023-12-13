@@ -12,8 +12,8 @@ My name is Karol and I'm currently working as a Linux Administrator. I mostly sp
   * 🚀 [Kubernetes Maestro | Daman Naprawa.](https://kubernetesmaestro.pl)
   * 🚀[GitOps Fundamentals | Codefresh.](https://learning.codefresh.io)
 - 🔥 My efforts which I make to commence my DevOps journey 🚀:
-  * ✅ badge1
-  * ✅ badge2
+   <!--START_SECTION:badges-->
+   <!--END_SECTION:badges-->
 - 📫 Reach out to me: karol_sz@poczta.fm
 
   ***I'm passionate about what I do and I'm interested in them so actually I don’t work  just I do what I like and always be learning ❤️***
