@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-My name is Karol and I'm currently working as a Linux Administrator. I mostly spend a lot of time at my terminal and making all things work as well as I'm experimenting with variety of software technologies. Additionally I'm increasing my knowledge in DevOps field because I'm looking for new challenges which gives me opportunity to develop hard as well as soft skills :) 
+My name is Karol and I'm currently working as a Linux Administrator. I mostly spend a lot of time at my terminal and making all things work as well as I'm experimenting with variety of software technologies. Additionally I'm increasing my knowledge in DevOps field because I'm looking for new challenges which gives me opportunity to develop hard and soft skills as well :) 
 
 ***
 
@@ -18,7 +18,7 @@ My name is Karol and I'm currently working as a Linux Administrator. I mostly sp
 <!--END_SECTION:badges-->
 - 📫 Reach out to me: karol_sz@poczta.fm
 
-  ***I'm passionate about what I do and I'm interested in them so actually I don’t work  just I do what I like and always be learning ❤️***
+  ***I'm passionate about what I do and I'm interested in them so actually I don’t work I just do what I like and always be learning ❤️***
 <!--
 **kadasz/kadasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
