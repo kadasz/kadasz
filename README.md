@@ -18,7 +18,11 @@ My name is Karol and I'm currently working as a Linux Administrator. I mostly sp
 <!--END_SECTION:badges-->
 - 📫 Reach out to me: karol_sz@poczta.fm
 
-  ***I'm passionate about what I do and I'm interested in them so actually I don’t work I just do what I like and always be learning ❤️***
+  ***
+
+***📌 I'm passionate about what I do and I'm interested in them so actually I don’t work I just do what I like and always be learning***
+
+***And the best way of learning is learning by having fun and constant experimenting with that, searching, asking questions, re-checking, searching even do not know what exactly📍***
 <!--
 **kadasz/kadasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
