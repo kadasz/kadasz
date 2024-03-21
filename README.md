@@ -13,6 +13,7 @@ My name is Karol and I'm currently working as a Linux Administrator. I mostly sp
   * 🚀[GitOps Fundamentals | Codefresh.](https://learning.codefresh.io)
 - 🔥 My efforts which I make to commence my DevOps journey 🚀:
    <!--START_SECTION:badges-->
+[![LFD259: Kubernetes for Developers](https://images.credly.com/size/110x110/images/5c15c611-e2dc-44ad-b39e-503bed8804c7/LF_logobadge.png)](http://www.credly.com/badges/9c348f8c-aa59-4457-bd9f-d37b52f22035 "LFD259: Kubernetes for Developers")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/c54f035a-bd9e-44d3-8e23-5ca736dfc9b1 "CKA: Certified Kubernetes Administrator")
 [![LFS258: Kubernetes Fundamentals](https://images.credly.com/size/110x110/images/9e4096f6-038b-4c0a-ad60-832ef84cbf14/LF_logobadge.png)](http://www.credly.com/badges/b2e2c6a3-bc8a-402e-925c-b6434bdb5c21 "LFS258: Kubernetes Fundamentals")
 <!--END_SECTION:badges-->
