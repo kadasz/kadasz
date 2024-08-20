@@ -1,9 +1,12 @@
 name: Update badges
-
-on: [push]
+on:
+  push:
+    branches:
+      - 'master'
   schedule:
     # Runs at 6am every 7 day
-    - cron: "0 6 */7 * *"
+    - cron: "0 6 */7 * *" 
+    
 jobs:
   update-readme:
     name: Update Readme with badges
