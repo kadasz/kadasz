@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-My name is Karol and I'm currently working as a Linux Administrator. I mostly spend a lot of time at my terminal and making all things work as well as I'm experimenting with variety of software technologies. Additionally I'm increasing my knowledge in DevOps field because I'm looking for new challenges which gives me opportunity to develop hard and soft skills as well :) 
+My name is Karol and I'm currently working as a Linux Administrator. I mostly spend loads of time at my terminal and making all things work well and I'm also experimenting with a plenty of software technologies cause make me fun. Additionally I'm increasing my knowledge in DevOps field caused by I'm looking for new challenges which gives me opportunity to develop hard and soft skills as well :)
 
 ***
 
@@ -24,7 +24,7 @@ My name is Karol and I'm currently working as a Linux Administrator. I mostly sp
 
   ***
 
-***📌 I'm passionate about what I do and I'm interested in them so actually I don’t work I just do what I like :) ***
+***📌 I'm passionate about what I do and I'm interested in them so actually I don’t work I just do what I like :)***
 
 ***And the best way of learning is learning by having fun and constant experimenting with that, searching, asking questions, re-checking, searching even do not know what exactly📍***
 <!--
