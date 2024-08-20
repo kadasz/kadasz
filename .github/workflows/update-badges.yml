@@ -2,7 +2,7 @@ name: Update badges
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
   schedule:
     # Runs at 6am every 7 day
     - cron: "0 6 */7 * *" 
