@@ -1,6 +1,7 @@
 ### Hey there! 👋
 
-My name is Karol and I'm currently working as a Linux Administrator. I mostly spend loads of time at my terminal and making all things work well and I'm also experimenting with a plenty of software technologies cause make me fun. Additionally I'm increasing my knowledge in DevOps field caused by I'm looking for new challenges which gives me opportunity to develop hard and soft skills as well :)
+My name is Karol, I'm currently working as a Linux System Engineer and I spend most of my time at the terminal, ensuring everything runs smoothly and efficiently. I enjoy experimenting with various software technologies because learning and trying out new tools is fun for me.
+Additionally, I'm actively expanding my knowledge in the DevOps field. I'm driven by new challenges that give me the opportunity to develop both my technical and soft skills. I believe the best way to learn is through hands-on practice, experimentation, and enjoying the process along the way.
 
 ***
 
@@ -29,9 +30,7 @@ My name is Karol and I'm currently working as a Linux Administrator. I mostly sp
 
   ***
 
-***📌 I'm passionate about what I do and I'm interested in them so actually I don’t work I just do what I like :)***
-
-***And the best way of learning is learning by having fun and constant experimenting with that, searching, asking questions, re-checking, searching even do not know what exactly📍***
+***📌 The best way to learn is by having fun and constantly experimenting, searching, questioning, re-checking, and searching again even without knowing exactly what you're looking for📍***
 <!--
 **kadasz/kadasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
